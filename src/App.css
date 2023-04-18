@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#logout {
+  text-align: right !important;
+  align-items: right !important;
+  justify-content: right !important;
+  justify-items: right !important;
+  align-content: right !important;
 }
